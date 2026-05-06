@@ -1,0 +1,90 @@
+﻿Requirement ID ​,"Met? [Yes, No, Partially] ​",Rational ​
+NRC RS-TSN-MOR-001 ​,Yes ​,"The motor mount will transfer thrust being secured to both the body and the motor, allowing for minimal vibrations and prevention of slipping. ​"
+NRC RS-TSN-MOR-002 ​,Partially ​,This is to be tested once we have all the parts ​
+NRC RS-TSN-MOR-003 ​,Partially  ​,This is to be tested once we have all the parts ​
+NRC RS-TSN-SMN-001 ​,Yes​,The rocket achieves a launch speed of 19.9m/s off the rail ​
+NRC RS-TSN-SMN-003 ​,Yes ​,The rocket has been designed to maintain a stability margin between 1.87 and 2.5 during all stages of flight ​
+NRC RS-TSN-SAR-001 ​,Partially ​,To be tested​
+NRC RS-TSN-SAR-002 ​,Yes​,"Tested with 1.5 kg, 500 g where needed​"
+NRC RS-TSN-SAR-003 ​,Yes ​,"Tested no deflection with 1.5 kg, 500g required theoretically​"
+NRC RS-TSN-SAR-004 ​,Yes​,Tested no deflection with weight​
+NRC RS-TSN-SAR-005 ​,Yes ​,We are not using interconnected tubes in our design for the main body ​
+NRC RS-TSN-SAR-006 ​,Partially ​,To be tested on nose cone the rest worked​
+NRC RS-TSN-SAR-007 ​,Partially​,Please order!!!!Two rail guides are included in the main body of the launch vehicle ​
+NRC RS-TSN-SAR-008 ​,Yes ​,Finite Element Analysis was not used to select or test materials ​
+NRC RS-TSN-ESS-001 ​,Yes ​,The power of the battery to be used will be capable of supporting this. ​
+,​,
+NRC RS-TSN-ESS-002 ​,Partially ​,"This has not been tested; however, that is the theoretical expectation. ​"
+,​,
+NRC RS-TSN-ESS-003 ​,Yes ​,A multi-core wire has been included in the design ​
+,​,
+NRC RS-TSN-ESS-004 ​,Yes ​,We’re not communicating with the rocket wirelessly  ​
+,​,
+NRC RS-TSN-RRS-001 ​,Yes ​,Parachute to be used:  Spherachute plus+ W/swivel 24’’. This has been simulated on OpenRocket. ​
+, ​,
+NRC RS-TSN-RRS-002 ​,Yes ​,OpenRocket simulation shows the system shall reduce the speed to 9.5m/s ​
+, ​,
+NRC RS-TSN-RRS-003 ​,Partially ​,Research is being done to estimate this ​
+, ​,
+NRC RS-TSN-RRS-004 ​,Yes ​,The Mercury V1 is UKRA approved. ​
+, ​,
+NRC RS-TSN-RRS-005 ​,Yes ​,A bulkhead is in between recovery system and electrical system ​
+, ​,
+NRC RS-TSN-RRS-006 ​,Yes ​,Flight computer is being used ​
+, ​,
+NRC RS-TSN-RRS-007 ​,Partially ​,Uncertainty of this for the moment. Awaiting part to confirm. ​
+, ​,
+NRC RS-TSN-RRS-008 ​,Yes ​, Holes to be created in the nozzle to secure the eye bolts using the nut. ​
+, ​,
+NRC RS-TSN-RRS-007 ​,Yes ​,We have a role of shock cords to customize the size ​
+, ​,
+NRC RS-TSN-RRS-008 ​,Yes ​,They’re kevlar. ​
+, ​,
+NRC RS-MRD-MIS-001 ​,No ​,The OpenRocket simulation reached an apogee of just shy of 2200ft ​
+NRC RS-MRD-MIS-002 ​,No ​,We don’t reach beyond the target height.  ​
+, ​,
+NRC RS-MRD-MIS-003 ​,Yes ​,Theoretically impossible based on simulations​
+, ​,
+NRC RS-MRD-MIS-004 ​,Yes ​,Motor fits in the guidelines  ​
+, ​,
+NRC RS-MRD-MIS-005 ​,Yes ​,It’s been purchased through UKSEDs ​
+, ​,
+NRC RS-MRD-MIS-006 ​,Yes ​,The motor form was submitted ​
+, ​,
+NRC RS-MRD-MIS-007 ​,Partially ​,To be tested ​
+, ​,
+NRC RS-MRD-MIS-008 ​,Partially ​,To be tested ​
+, ​,
+NRC RS-MRD-CPD-001 ​,Yes ​,5V is being used ​
+, ​,
+NRC RS-MRD-CPD-002 ​,Yes ​,The power of the battery supports the system for approximately 1 hour 30 minutes ​
+, ​,
+NRC RS-MRD-CPD-003 ​,Yes ​,Current of 1.5 amps will power the Customers Payload. ​
+, ​,
+NRC RS-MRD-CPD-004 ​,Yes ​,Position of port is bottom. Connectors and cables have arrived​
+,  ​,
+NRC RS-MRD-CPD-005 ​,Yes ​,Provided by the launch service ​
+NRC RS-MRD-CPD-006 ​,Yes ​,The adapter has been chosen and integrated into the Avionics Sled ​
+,  ​,
+NRC RS-MRD-CPD-007 ​,Yes ​,Payload bay has measurements are 45mm diameter and 53mm length. ​
+, ​,
+NRC RS-MRD-CPD-008 ​,Yes ​,Design of rocket and integrated payload accounts for this ​
+, ​,
+NRC RS-MRD-CPD-009 ​,Partially ​,Design confirmed. Finals holes will be drilled when avionics sled is printed ​
+, ​,
+NRC RS-MRD-CPD-010 ​,Yes ​,Theres a hole in the rocket for the camera. ​
+, ​,
+NRC RS-MRD-CPD-011 ​,Yes ​,Bolts have arrived ​
+,  ​,
+NRC RS-MRD-RPD-001 ​,Partially ​,Testing of single parts are complete. Awaiting PCB design verification ​
+, ​,
+NRC RS-MRD-RPD-002 ​,Yes ​,Using the barometer on a 10dof IMU ​
+, ​,
+NRC RS-MRD-RPD-003 ​,Partially ​,individual parts are working. Screen works​
+, ​,
+NRC RS-MRD-RPD-004 ​,Partially ​,individual parts are working. ​
+, ​,
+NRC RS-MRD-RPD-005 ​,Partially ​,To be printed ​
+, ​,
+NRC RS-MRD-RPD-006 ​,Yes ​,Multiple sensor included in the rocket.  Still deciding shall be used for this part of the requirement. ​
+, ​,
