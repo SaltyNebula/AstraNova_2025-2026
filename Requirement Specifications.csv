@@ -40,8 +40,8 @@ NRC RS-TSN-RRS-007 ​,Yes ​,We have a role of shock cords to customize the 
 , ​,
 NRC RS-TSN-RRS-008 ​,Yes ​,They’re kevlar. ​
 , ​,
-NRC RS-MRD-MIS-001 ​,No ​,The OpenRocket simulation reached an apogee of just shy of 2200ft ​
-NRC RS-MRD-MIS-002 ​,No ​,We don’t reach beyond the target height.  ​
+NRC RS-MRD-MIS-001 ​,Yes ​,The OpenRocket simulation reached an apogee of just around 2200ft ​
+NRC RS-MRD-MIS-002 ​,YES ​,We don’t reach beyond 2300 feet​
 , ​,
 NRC RS-MRD-MIS-003 ​,Yes ​,Theoretically impossible based on simulations​
 , ​,
