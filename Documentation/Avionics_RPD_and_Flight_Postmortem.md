@@ -134,6 +134,3 @@ Any one of the first two probably saves the flight; all four together make the r
 
 The board was sound and the firmware logic was sound; the failure lived in the interaction between two subsystems and an under-decoupled shared supply. That is the most useful kind of failure to have once, early, on a student project rather than later on something that matters more.
 
-## Documentation note
-
-The engineering and conclusions are the team's own. An AI assistant was used as a writing aid to structure and draft this document from raw notes and the post-flight diagnosis.
