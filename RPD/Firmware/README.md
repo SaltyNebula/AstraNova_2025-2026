@@ -78,4 +78,4 @@ From the post-mortem, the recorder logged no flight data on the day due to a sha
 - Put a **timeout on every e-paper busy-wait**; the stock driver waits on the BUSY pin with no timeout, which can hang the loop if the panel is unresponsive.
 - Optionally run the display on the RP2350's **second core**, so it physically cannot stall the state machine or SD logging.
 
-These pair with the hardware fix (an independent supply for the RPD); see the [full write-up](../Documentation/Avionics_RPD_and_Flight_Postmortem.md).
+These pair with the hardware fix (an independent supply for the RPD); see the [full write-up](/Documentation/Avionics_RPD_and_Flight_Postmortem.md).
