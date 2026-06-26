@@ -25,8 +25,8 @@ Many teams deploy using the motor's built-in timed ejection charge, where a dela
 
 A **24" Spherachute** with swivel slows the descent to within the recovery requirement; OpenRocket showed a descent rate around 9.5 m/s, comfortably under the 15 m/s limit. **Kevlar shock cords** over 2 m connect the nose cone and main airframe, sized to take the deployment load and prevent full separation, with eye bolts secured by nuts.
 
-<!-- TODO: add the parachute deployment test clip to ../Figures/recovery_deploy_test.gif -->
-![Parachute deployment test](Recovery/flashpaper_test.gif)
+![Parachute deployment test](/Recovery/flashpaper_test.GIF)
+*Figure 1: Flashpaper test for recovery section(parachute was tied together).*
 
 ## Flight outcome and trade-off
 
