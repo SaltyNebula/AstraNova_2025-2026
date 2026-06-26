@@ -113,6 +113,8 @@ Now the events line up exactly:
 
 One cause, every symptom. The SD card did not fail to write; the processor browned out underneath it. The card itself is almost certainly fine.
 
+![Rocket postmortem](rocket_aftermath_competition_day.png)
+
 ## Fixes
 
 In order of effect:
