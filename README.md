@@ -115,12 +115,12 @@ Each subsystem has its own folder; the highlights and owners are below.
 ## Repository structure
 
 ```
-Avionics/        avionics battery and power design
+Avionics/        avionics battery, power design and sled
 RPD/             rideshare flight data logger hardware and electronics (PCB design)
 CPD/             customer payload integration and interface
 Propulsion/      motor selection and mount
-Recovery/        recovery system design
-Structures/      airframe, fins, nose cone, OpenRocket model
+Recovery/        recovery system design, nose cone,
+Structures/      airframe, fins, OpenRocket model
 Systems/         systems engineering, requirement traceability
 Documentation/   design notes and the avionics + flight write-up, design reviews (CDR, MR, FRR)
 Figures/         photos and renders used in the README
