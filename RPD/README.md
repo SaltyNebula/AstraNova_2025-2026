@@ -45,7 +45,7 @@ The customer payload and the RPD share only the **battery input terminal**; down
 - 2-layer board, bottom-layer ground plane, hand-routed critical nets (paired I2C, SPI to SD and e-paper, 0.5 to 1 mm power traces).
 - JLCPCB standard 2-layer process; confirm design rules before ordering (min trace and clearance 0.127 mm, min via 0.3 mm hole / 0.6 mm annular ring).
 - Power section soldered and voltage-checked first, before populating the rest.
-- 
+  
 ![Techincal Assembly drawing of internals](Hardware/layout/rpd_brdschematic.png)
 *Figure 2: Schematic of PCB(also see schematic in `../RPD/Hardware/layout/schematic.pdf ` )*
 
