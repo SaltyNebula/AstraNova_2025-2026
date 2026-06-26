@@ -69,11 +69,11 @@ Each subsystem has its own folder; the highlights and owners are below.
 **Payloads** (`CPD/` and `RPD/`; Lucian and Calum on Payloads).The custom flight data logger; PCB design in Fusion 360 Eagle and fabrication at JLCPCB with in-house SMD assembly (`Avionics/`), and the RP2350 firmware and recorder design (`RPD/`), covering the flight-data, apogee-display, and additional-sensor requirements.
 
 
-![Payload integration](Figures/avionics_sled.png)
+![Payload integration](Figures/rpd.jpg)
 
 
 **Avionics** (`Avionics/`; Calum and Lucian on Avionics). Overseeing all electronics, including RPD, CPD, and recovery integration and mechanical fit; powering over the regulated 5 V XT30 bus, the unpressurised bay, and the avionics sled and adapter interface. 
-![Avionics: the RPD board](Figures/rpd.jpg)
+![Avionics: the RPD board](Figures/avionics_sled.png)
 
 ## Flight outcome and post-mortem
 
