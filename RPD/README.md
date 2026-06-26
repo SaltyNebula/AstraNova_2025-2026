@@ -33,10 +33,10 @@ The customer payload and the RPD share only the **battery input terminal**; down
 
 ## Board revisions
 
-- **Rev V2(figuure 1), flight board.** ENIG finish on black soldermask; includes the CD74HC4050 level-shifter path. This is the board that flew, and it survived the ballistic impact intact.
-- **Rev B, test article.** HASL finish; level shifter removed (redundant for all-3.3 V logic) and the SD card wired directly. Built to validate the simplification before committing it to a flight spin.
+- **Rev V2(figure 1), flight board.** ENIG finish on black soldermask; includes the CD74HC4050 level-shifter path. This is the board that flew, and it survived the ballistic impact intact.
+- **Rev B(alt), test article.** HASL finish; level shifter removed (redundant for all-3.3 V logic) and the SD card wired directly. Built to validate the simplification before committing it to a flight spin.
 
-![Techincal Assembly drawing of internals](RPD/Hardware/rpd_brdlayout.png)
+![Techincal Assembly drawing of internals](Hardware/layout/rpd_brdlayout.png)
 *Figure 1: PCB Layout*
 
 
@@ -45,14 +45,12 @@ The customer payload and the RPD share only the **battery input terminal**; down
 - 2-layer board, bottom-layer ground plane, hand-routed critical nets (paired I2C, SPI to SD and e-paper, 0.5 to 1 mm power traces).
 - JLCPCB standard 2-layer process; confirm design rules before ordering (min trace and clearance 0.127 mm, min via 0.3 mm hole / 0.6 mm annular ring).
 - Power section soldered and voltage-checked first, before populating the rest.
-- 
-![Techincal Assembly drawing of internals](RPD/Hardware/rpd_brdschematic.png)
-*Figure 2: Schematic of PCB(also see schematic in `../RPD/Hardware/schematic.pdf ` )*
+  
+![Techincal Assembly drawing of internals](Hardware/layout/rpd_brdschematic.png)
+*Figure 2: Schematic of PCB(also see schematic in `../RPD/Hardware/layout/schematic.pdf ` )*
 
 
 ## What lives in this folder
-
-Drop the following here as you export them:
 
 ```
 hardware/
