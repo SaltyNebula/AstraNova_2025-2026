@@ -1,0 +1,24 @@
+Item,Component,Description,Manufacturer Part No,Supplier Part No,Supplier,Qty,Unit Price (GBP),Line Total (GBP)
+1,Buzzer,"Board-mount buzzer, 8.5 mm, 5 V, 100 dB, SMT",CMT-8504-100-SMT-TR,490-CMT-8504100SMTTR,Mouser,1,1.18,1.18
+2,microSD connector,"microSD push-pull connector, SMT, 1.42 mm height",104031-0811,538-104031-0811,Mouser,1,1.62,1.62
+3,"LED, green","Green LED, clear tinted, 10-15 mcd @ 10 mA",TLHG4201,78-TLHG4201,Mouser,1,0.863,0.86
+4,"LED, red","Red LED, diffused",TLLR4401,78-TLLR4401,Mouser,1,0.375,0.38
+5,"LDO regulator, 3.3 V","LDO voltage regulator, 3.3 V 0.8 A",LD1117S33TR,511-LD1117S33,Mouser,1,0.255,0.26
+6,"LDO regulator, 5.0 V","LDO voltage regulator, 5.0 V 0.8 A",LD1117S50TR,511-LD1117S50,Mouser,1,0.292,0.29
+7,Level shifter,"Hex non-inverting buffer / level shifter, CMOS",CD74HC4050NSR,595-CD74HC4050NSR,Mouser,1,0.496,0.5
+8,Tactile switch,"Tactile switch, 6 x 6 mm, 260 gf, SPST, IP67",TS05-66-50-BK-260-SMT-67,179-TS056650260SMT67,Mouser,2,0.263,0.53
+9,Raspberry Pi Pico 2,"Raspberry Pi Pico 2, RP2350, 4 MB flash",SC1631,358-SC1631,Mouser,1,3.75,3.75
+10,"Resistor, 1 kohm","Thick-film resistor, 1 kohm, 1206, 0.5%",ESR18EZPD1001,755-ESR18EZPD1001,Mouser,1,0.115,0.12
+11,"Resistor, 10 kohm","Thick-film resistor, 10 kohm, 3216, 5%",SFR18EZPJ103,755-SFR18EZPJ103,Mouser,5,0.072,0.36
+12,"LED, red (0805)","Red SMD LED, 0805",Q62702P5178,720-Q62702P5178,Mouser,1,0.111,0.11
+13,"Resistor, 270 ohm","Thick-film resistor, 270 ohm, 1210, 1%, 2.5 W",CRCW1210270RFKEAHP,71-CRCW1210270RFKEAH,Mouser,2,0.377,0.75
+14,"Resistor, 680 ohm","Thick-film resistor, 680 ohm, 1210, 1%, 2.5 W",CRCW1210680RFKEAHP,71-CRCW1210680RFKEAH,Mouser,1,0.18,0.18
+15,"IMU, 10-DOF",Waveshare 10-DOF IMU Sensor (D); ICM-20948 + BMP280,,SKU:15965,Waveshare,1,25.39,25.39
+16,"e-Paper display, 2.9""","Waveshare 2.9 inch e-Ink display module, 296 x 128",,SKU:12956,Waveshare,1,21.99,21.99
+17,MOSFET,"MOSFET, IRLML2502, 20 V 4.2 A",IRLML2502TRPBF,,,1,1.2,1.2
+18,"Capacitor, 10 uF","MLCC, 10 uF, 35 V, 1206, X7R",C3216X7R1V106K160AC,,,2,0.19,0.38
+19,"Capacitor, 0.1 uF","MLCC, 0.1 uF, 50 V, 1206, X7R",C1206C104K5RAC7210,,,2,0.03,0.06
+20,"Diode, Schottky","Schottky diode, 1N5819W, SMD",1N5819W,,,1,0.33,0.33
+21,Buck converter,Waveshare DC5-36 V to 3.3 V buck converter,DC5-36-TO-DC3V3-5,,Waveshare,1,3.47,3.47
+22,"IC header, 20-way","IC header, 20 way",D01-9922046,D01-9922046,CPC,1,3.16,3.16
+Total (ex. shipping and VAT),,,,,,30,,66.86
