@@ -33,8 +33,8 @@ The customer payload and the RPD share only the **battery input terminal**; down
 
 ## Board revisions
 
-- **Rev V2(figuure 1), flight board.** ENIG finish on black soldermask; includes the CD74HC4050 level-shifter path. This is the board that flew, and it survived the ballistic impact intact.
-- **Rev B, test article.** HASL finish; level shifter removed (redundant for all-3.3 V logic) and the SD card wired directly. Built to validate the simplification before committing it to a flight spin.
+- **Rev V2(figure 1), flight board.** ENIG finish on black soldermask; includes the CD74HC4050 level-shifter path. This is the board that flew, and it survived the ballistic impact intact.
+- **Rev B(alt), test article.** HASL finish; level shifter removed (redundant for all-3.3 V logic) and the SD card wired directly. Built to validate the simplification before committing it to a flight spin.
 
 ![Techincal Assembly drawing of internals](Hardware/layout/rpd_brdlayout.png)
 *Figure 1: PCB Layout*
