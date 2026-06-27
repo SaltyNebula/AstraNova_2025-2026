@@ -1,4 +1,4 @@
-# UKC AstraNova: UKSEDS National Rocketry Championship 2025-26
+# AstraNova: UKSEDS National Rocketry Championship 2025-26
 
 **UKC AstraNova** is a student rocketry team from the **University of Kent**, competing in the **UKSEDS National Rocketry Championship (NRC) 2025-26**. This repository is the team's full project record, organised by subsystem; propulsion, structures, recovery, the customer payload, the avionics and rideshare payload, the systems engineering and design reviews, and the supporting documentation. The mission: design, build, and fly a rocket that reaches **670 m**, carries a customer payload alongside the team's own rideshare payload, records its flight data on-board, and recovers safely within **1 km** of the launch site.
 

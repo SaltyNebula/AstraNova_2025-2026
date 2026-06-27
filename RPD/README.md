@@ -47,7 +47,7 @@ The customer payload and the RPD share only the **battery input terminal**; down
 - Power section soldered and voltage-checked first, before populating the rest.
   
 ![Techincal Assembly drawing of internals](Hardware/layout/rpd_brdschematic.png)
-*Figure 2: Schematic of PCB(also see schematic in `../RPD/Hardware/layout/schematic.pdf ` )*
+*Figure 2: Schematic of PCB(also see schematic in `../RPD/Hardware/schematic.pdf ` )*
 
 
 ## What lives in this folder
