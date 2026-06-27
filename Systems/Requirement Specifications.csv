@@ -1,90 +1,56 @@
-Requirement ID ​,"Met? [Yes, No, Partially] ​",Rational ​
-NRC RS-TSN-MOR-001 ​,Yes ​,"The motor mount will transfer thrust being secured to both the body and the motor, allowing for minimal vibrations and prevention of slipping. ​"
-NRC RS-TSN-MOR-002 ​,Partially ​,This is to be tested once we have all the parts ​
-NRC RS-TSN-MOR-003 ​,Partially  ​,This is to be tested once we have all the parts ​
-NRC RS-TSN-SMN-001 ​,Yes​,The rocket achieves a launch speed of 19.9m/s off the rail ​
-NRC RS-TSN-SMN-003 ​,Yes ​,The rocket has been designed to maintain a stability margin between 1.87 and 2.5 during all stages of flight ​
-NRC RS-TSN-SAR-001 ​,Partially ​,To be tested​
-NRC RS-TSN-SAR-002 ​,Yes​,"Tested with 1.5 kg, 500 g where needed​"
-NRC RS-TSN-SAR-003 ​,Yes ​,"Tested no deflection with 1.5 kg, 500g required theoretically​"
-NRC RS-TSN-SAR-004 ​,Yes​,Tested no deflection with weight​
-NRC RS-TSN-SAR-005 ​,Yes ​,We are not using interconnected tubes in our design for the main body ​
-NRC RS-TSN-SAR-006 ​,Partially ​,To be tested on nose cone the rest worked​
-NRC RS-TSN-SAR-007 ​,Partially​,Please order!!!!Two rail guides are included in the main body of the launch vehicle ​
-NRC RS-TSN-SAR-008 ​,Yes ​,Finite Element Analysis was not used to select or test materials ​
-NRC RS-TSN-ESS-001 ​,Yes ​,The power of the battery to be used will be capable of supporting this. ​
-,​,
-NRC RS-TSN-ESS-002 ​,Partially ​,"This has not been tested; however, that is the theoretical expectation. ​"
-,​,
-NRC RS-TSN-ESS-003 ​,Yes ​,A multi-core wire has been included in the design ​
-,​,
-NRC RS-TSN-ESS-004 ​,Yes ​,We’re not communicating with the rocket wirelessly  ​
-,​,
-NRC RS-TSN-RRS-001 ​,Yes ​,Parachute to be used:  Spherachute plus+ W/swivel 24’’. This has been simulated on OpenRocket. ​
-, ​,
-NRC RS-TSN-RRS-002 ​,Yes ​,OpenRocket simulation shows the system shall reduce the speed to 9.5m/s ​
-, ​,
-NRC RS-TSN-RRS-003 ​,Partially ​,Research is being done to estimate this ​
-, ​,
-NRC RS-TSN-RRS-004 ​,Yes ​,The Mercury V1 is UKRA approved. ​
-, ​,
-NRC RS-TSN-RRS-005 ​,Yes ​,A bulkhead is in between recovery system and electrical system ​
-, ​,
-NRC RS-TSN-RRS-006 ​,Yes ​,Flight computer is being used ​
-, ​,
-NRC RS-TSN-RRS-007 ​,Partially ​,Uncertainty of this for the moment. Awaiting part to confirm. ​
-, ​,
-NRC RS-TSN-RRS-008 ​,Yes ​, Holes to be created in the nozzle to secure the eye bolts using the nut. ​
-, ​,
-NRC RS-TSN-RRS-007 ​,Yes ​,We have a role of shock cords to customize the size ​
-, ​,
-NRC RS-TSN-RRS-008 ​,Yes ​,They’re kevlar. ​
-, ​,
-NRC RS-MRD-MIS-001 ​,Yes ​,The OpenRocket simulation reached an apogee of just around 2200ft ​
-NRC RS-MRD-MIS-002 ​,YES ​,We don’t reach beyond 2300 feet​
-, ​,
-NRC RS-MRD-MIS-003 ​,Yes ​,Theoretically impossible based on simulations​
-, ​,
-NRC RS-MRD-MIS-004 ​,Yes ​,Motor fits in the guidelines  ​
-, ​,
-NRC RS-MRD-MIS-005 ​,Yes ​,It’s been purchased through UKSEDs ​
-, ​,
-NRC RS-MRD-MIS-006 ​,Yes ​,The motor form was submitted ​
-, ​,
-NRC RS-MRD-MIS-007 ​,Partially ​,To be tested ​
-, ​,
-NRC RS-MRD-MIS-008 ​,Partially ​,To be tested ​
-, ​,
-NRC RS-MRD-CPD-001 ​,Yes ​,5V is being used ​
-, ​,
-NRC RS-MRD-CPD-002 ​,Yes ​,The power of the battery supports the system for approximately 1 hour 30 minutes ​
-, ​,
-NRC RS-MRD-CPD-003 ​,Yes ​,Current of 1.5 amps will power the Customers Payload. ​
-, ​,
-NRC RS-MRD-CPD-004 ​,Yes ​,Position of port is bottom. Connectors and cables have arrived​
-,  ​,
-NRC RS-MRD-CPD-005 ​,Yes ​,Provided by the launch service ​
-NRC RS-MRD-CPD-006 ​,Yes ​,The adapter has been chosen and integrated into the Avionics Sled ​
-,  ​,
-NRC RS-MRD-CPD-007 ​,Yes ​,Payload bay has measurements are 45mm diameter and 53mm length. ​
-, ​,
-NRC RS-MRD-CPD-008 ​,Yes ​,Design of rocket and integrated payload accounts for this ​
-, ​,
-NRC RS-MRD-CPD-009 ​,Partially ​,Design confirmed. Finals holes will be drilled when avionics sled is printed ​
-, ​,
-NRC RS-MRD-CPD-010 ​,Yes ​,Theres a hole in the rocket for the camera. ​
-, ​,
-NRC RS-MRD-CPD-011 ​,Yes ​,Bolts have arrived ​
-,  ​,
-NRC RS-MRD-RPD-001 ​,Partially ​,Testing of single parts are complete. Awaiting PCB design verification ​
-, ​,
-NRC RS-MRD-RPD-002 ​,Yes ​,Using the barometer on a 10dof IMU ​
-, ​,
-NRC RS-MRD-RPD-003 ​,Partially ​,individual parts are working. Screen works​
-, ​,
-NRC RS-MRD-RPD-004 ​,Partially ​,individual parts are working. ​
-, ​,
-NRC RS-MRD-RPD-005 ​,Partially ​,To be printed ​
-, ​,
-NRC RS-MRD-RPD-006 ​,Yes ​,Multiple sensor included in the rocket.  Still deciding shall be used for this part of the requirement. ​
-, ​,
+Requirement ID,Rev,"Met? [Yes, No, Partially]",Rationale
+NRC RS-TSN-MOR-001,A,Yes,"Mount designed to maximise strength and minimise weight; material has sufficient heat tolerance. Fits tightly to the top, secured with screws to the body, transferring thrust from the motor to the rocket. Rear clamps also fit tightly and are secured with screws to the body."
+NRC RS-TSN-MOR-002,A,Yes,Has been tested and can withstand the force
+NRC RS-TSN-MOR-003,A,Yes,Has been tested and can withstand the force
+NRC RS-TSN-SMN-001,A,Yes,See OpenRocket design
+NRC RS-TSN-SMN-003,A,Yes,See OpenRocket design
+NRC RS-TSN-SAR-001,A,Yes,Fins have been fixed in line with the longitudinal axis of the rocket
+NRC RS-TSN-SAR-002,A,Yes,Fin designs were tested to specification and found able to withstand high levels of strain
+NRC RS-TSN-SAR-003,A,Yes,See above
+NRC RS-TSN-SAR-004,A,Yes,Main body was tested with various weights in excess of 2 kg and found resilient to high lateral and longitudinal forces
+NRC RS-TSN-SAR-005,A,Yes,Nose cone's coupling with the main body is equal to 1 diameter of the main body
+NRC RS-TSN-SAR-006,A,Yes,All structural parts have been tested to specification and can withstand all expected loads
+NRC RS-TSN-SAR-007,A,Partially,Rail buttons have been ordered but have not yet arrived
+NRC RS-TSN-SAR-008,A,Yes,FEA analysis was not used for parts testing
+NRC RS-TSN-ESS-001,A,Yes,Main battery 2S 2200 mAh at ~60 mA (rideshare) plus customer payload at 1.5 A; total ~1.56 A draw. 2200 mAh at 7.8 W gives about 50 minutes runtime.
+NRC RS-TSN-ESS-002,A,Yes,"Avionics sled can be removed by unscrewing six screws, allowing removal and arming in under 5 minutes"
+NRC RS-TSN-ESS-003,A,Yes,No single-core wires have been used
+NRC RS-TSN-ESS-004,A,Yes,The team conforms to Ofcom's IR 2030 RF regulation as no radio has been used
+NRC RS-TSN-RRS-001,A,Yes,The vehicle has a recovery system
+NRC RS-TSN-RRS-002,A,Yes,The descent speed of the vehicle is less than 15 m/s
+NRC RS-TSN-RRS-003,A,Yes,The vehicle will not drift more than one kilometre
+NRC RS-TSN-RRS-004,A,Yes,The flight computer used is UKRA qualified
+NRC RS-TSN-RRS-005,A,Yes,The flight controller uses a separate battery and is therefore entirely isolated from the payload's battery
+NRC RS-TSN-RRS-006,A,Yes,Tilt switches have not been used
+NRC RS-TSN-RRS-007,A,Yes,The flight computer has an external disarming mechanism
+NRC RS-TSN-RRS-008,A,Yes,Eye bolts with screws have been used
+NRC RS-TSN-RRS-007,A,Yes,The shock cords are above the minimum length
+NRC RS-TSN-RRS-008,A,Yes,The shock cords are made of Kevlar
+NRC RS-TSN-ARY-001,A,Yes,Recovery conforms to CAA UAS law
+NRC RS-TSN-ARY-002,A,Yes,Recovery conforms to UKRA safety code
+NRC RS-TSN-ARY-003,A,Yes,We are not using active stabilisation
+NRC RS-MRD-MIS-001,A,Yes,The motor chosen and the design of the rocket theoretically should reach this apogee
+NRC RS-MRD-MIS-002,A,Yes,Dual-deployment is not being used
+NRC RS-MRD-MIS-003,A,Yes,Rocket will be unable to reach this height
+NRC RS-MRD-MIS-004,A,Yes,Motor was picked from the provided list that complied with these guidelines
+NRC RS-MRD-MIS-005,A,Yes,To be supplied by UKSEDS on the day
+NRC RS-MRD-MIS-006,A,Yes,Confirmation email has been received
+NRC RS-MRD-MIS-007,A,Yes,The RPD weighs 102 g
+NRC RS-MRD-MIS-008,A,Yes,The rocket will not reach further than 750 m
+NRC RS-MRD-CPD-001,B,Yes,A 5 V 4 A buck converter with an XT30 connector is used to power the CPD
+NRC RS-MRD-CPD-002,A,Yes,See NRC RS-TSN-ESS-001 (Rev A)
+NRC RS-MRD-CPD-003,A,Yes,18650CA-2S-3J battery has a max discharge current of 2.2 A; CPD current draw is 7.5 W / 5 V = 1.5 A
+NRC RS-MRD-CPD-004,B,Yes,The buck converter used for powering the CPD has an XT30 connector
+NRC RS-MRD-CPD-005,A,Yes,AstraNova provides an SD card for the CPD
+NRC RS-MRD-CPD-006,B,Yes,The avionics sled has a launch vehicle adapter mounted at the top for the CPD
+NRC RS-MRD-CPD-007,B,Yes,"As per the model, the avionics sled has a diameter of 50 mm and clearance of over 53 mm"
+NRC RS-MRD-CPD-008,B,Yes,"As per the 3D assembly, the customer payload is mounted concentrically"
+NRC RS-MRD-CPD-009,B,Yes,Holes have been drilled into the side of the rocket for external access
+NRC RS-MRD-CPD-010,A,Yes,The entire avionics sled is unpressurised
+NRC RS-MRD-CPD-011,A,Yes,AstraNova has M3 bolts for mounting the CPD
+NRC RS-MRD-RPD-001,A,Yes,"Custom PCB designed in Fusion 360, manufactured and populated in-house"
+NRC RS-MRD-RPD-002,A,Yes,"BMP280 barometer, bench tested; altitude reading verified by walking up and down a flight of stairs"
+NRC RS-MRD-RPD-003,A,Yes,Python script generates a plot from SD card data; demonstrated in bench test video
+NRC RS-MRD-RPD-004,A,Yes,Code calculates and logs the apogee value to the SD card and e-paper display
+NRC RS-MRD-RPD-005,A,Yes,Silkscreen is on the rideshare PCB (example photo in following slides)
+NRC RS-MRD-RPD-006,A,Yes,"10-DOF IMU logs acceleration, gyro, and mag data throughout flight"
